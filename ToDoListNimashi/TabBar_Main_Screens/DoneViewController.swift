@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  DoneViewController.swift
 //  ToDoListNimashi
 //
 //  Created by Nimashi Fernando on 3/5/19.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class DoneViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
